@@ -43,4 +43,4 @@ $$
 
 We can simulate the attractors based on the varrying $\beta =0:4 $ as shown in the graph below:
 
-![logisitc attractors](lorenz_attractors.png)
+![logisitc attractors](lorenz_attractors.png) 
