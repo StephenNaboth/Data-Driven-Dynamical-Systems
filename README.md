@@ -41,15 +41,6 @@ $$
 
 ![logistic](logistic_graph.png)
 
+We can simulate the attractors based on the varrying $\beta =0:4 $ as shown in the graph below:
 
-We can simulate the attractors based on the varrying $\beta = $
-
-
-
-
-
-
-
-
-
-
+![logisitc attractors](lorenz_attractors.png)
