@@ -31,5 +31,25 @@ Consider the Discrete-time dynamic systems:
 
 
 $$
-\mathbf{X}_k+1 = \mathbf{F}(X_{k})
+\mathbf{X}_{k+1} = \mathbf{F}(X_{k})
 $$
+
+#### Example: Logistic equation
+$$
+\mathbf{X}_{k+1} = \beta \mathbf{X}_{k}(1 - \mathbf{X}_{k})
+$$
+
+![logistic](logistic_graph.png)
+
+
+We can simulate the attractors based on the varrying $\beta = $
+
+
+
+
+
+
+
+
+
+
